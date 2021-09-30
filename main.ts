@@ -1,5 +1,5 @@
 input.onGesture(Gesture.ScreenUp, function () {
-    basic.showString("Hello!")
+    basic.showString("Hello")
     basic.showString("how")
     basic.showString("are")
     basic.showString("you")
